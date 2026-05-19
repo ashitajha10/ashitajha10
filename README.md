@@ -1,4 +1,8 @@
+Hi there 👋, I'm Ashita
 
+🎓 Engineering Undergraduate | 💻 Software Developer | 🤖 ML Enthusiast
+
+I’m passionate about building real-world applications that combine functionality, creativity, and impactful user experiences. I enjoy exploring modern technologies, solving problems through code, and continuously learning new skills in software development and machine learning.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashitajha/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashitajha691@gmail.com) 
 
